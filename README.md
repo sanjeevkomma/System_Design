@@ -1,37 +1,37 @@
 # Terminology : 
 
-Latency = delay in response 
+* Latency = delay in response 
 
-Synchronous  = 
+* Synchronous  = 
 
-Asynchronous  = 
+* Asynchronous  = 
 
-Redundancy  = 
+* Redundancy  = 
 
-Resilient  = 
+* Resilient  = 
 
-Availability = System uptime  
+* Availability = System uptime  
 
-Reliability  = 
+* Reliability  = 
 
-Durability  = 
+* Durability  = 
 
-Distributed = 
+* Distributed = 
 
-Scalability  = 
+* Scalability  = 
 
-System Downtime = 
+* System Downtime = 
 
-API VS Event = 
+* API vs Event = 
 
-Leverage  = 
+* Leverage  = 
 
-Retention = 
+* Retention = 
 
-Consistent =  
+* Consistent =  
 
-Fault Tolerant =  
+* Fault Tolerant =  
 
-Batch Processing VS Stream Processing 
+* Batch Processing VS Stream Processing 
 
-Micro Batch = Batch + Stream, short span of time 
+* Micro Batch = Batch + Stream, short span of time 
