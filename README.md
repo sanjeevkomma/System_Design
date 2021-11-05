@@ -19,4 +19,4 @@
 * Micro Batch = Batch + Stream, short span of time 
 
 # Reference
-* https://www.educative.io/courses/software-design-patterns-best-practices
+
