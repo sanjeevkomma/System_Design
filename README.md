@@ -2,16 +2,16 @@
 * System Design is the process of designing the architecture, components and interfaces for a system so that it meets the end-user requirements
 * [System Design Interview Questions for Java](https://dzone.com/articles/top-20-system-design-interview-questions-for-java)
 # System Design Basics
-1: vertical scaling: optimise precision and increase through put with the same resources 
-2: preprossing (e.g cron job) : prepare before hand during non pick hours 
-3: Backups: keep backups and avoid single point of failure 
-4: horizontal scaling: get more resources 
-5: micro service architecture 
-6: distributed system (partioning)
-7: load distribution 
-8: Decoupling 
-9: Logging 
-10: extensible
+* vertical scaling: optimise precision and increase through put with the same resources 
+* preprossing (e.g cron job) : prepare before hand during non pick hours 
+* Backups: keep backups and avoid single point of failure 
+* horizontal scaling: get more resources 
+* micro service architecture 
+* distributed system (partioning)
+* load distribution 
+* Decoupling 
+* Logging 
+* Extensible
 # System Design Problems
 * [Design Vending Machine](https://javarevisited.blogspot.com/2016/06/design-vending-machine-in-java.html#axzz4sZVwtCgs)
 * [Design URL Shortening Service](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR?affiliate_id=5073518643380224)
