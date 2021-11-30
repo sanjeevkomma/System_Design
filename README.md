@@ -1,3 +1,4 @@
+* System Design is the process of designing the architecture, components and interfaces for a system so that it meets the end-user requirements
 # Terminology
 * Latency = delay in response 
 * Synchronous  = 
