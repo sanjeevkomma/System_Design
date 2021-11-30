@@ -47,4 +47,5 @@
 # Reference
 * [System Design Basics](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224)
+* https://github.com/donnemartin/system-design-primer/blob/master/README.md
 
