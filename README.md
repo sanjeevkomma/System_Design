@@ -19,6 +19,11 @@
 * [How to avoid a single point of failure in distributed systems](https://www.youtube.com/watch?v=-BOysyYErLY)
 * [System Design: Content Delivery Networks (Simplified)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 * [Data Consistency and Tradeoffs in Distributed Systems](https://www.youtube.com/watch?v=m4q7VkgDWrM)
+* [What is Database Sharding?](https://www.youtube.com/watch?v=5faMjKuB9bc)
+* [What is a microservice architecture and it's advantages?](https://www.youtube.com/watch?v=qYhRvH9tJKw)
+* [Moving from Monoliths to Microservices](https://www.youtube.com/watch?v=rckfN7xFig0&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=6)
+* [What is the Publisher Subscriber Model?](https://www.youtube.com/watch?v=FMhbR_kQeHw&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=8)
+* [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=9)
 
 
 # System Design Problems
