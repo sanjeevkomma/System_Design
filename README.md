@@ -17,7 +17,7 @@
 * [What is a Message Queue and Where is it used?](https://www.youtube.com/watch?v=oUJbuFMyBDk)
 * [Why do Databases fail? AntiPatterns to avoid!](https://www.youtube.com/watch?v=9T-gNZ5bGCw)
 * [How to avoid a single point of failure in distributed systems](https://www.youtube.com/watch?v=-BOysyYErLY)
-* [System Design: Content Delivery Networks (Simplified)](https://www.youtube.com/watch?v=8zX0rue2Hic)
+* [Content Delivery Networks (Simplified)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 * [Data Consistency and Tradeoffs in Distributed Systems](https://www.youtube.com/watch?v=m4q7VkgDWrM)
 * [What is Database Sharding?](https://www.youtube.com/watch?v=5faMjKuB9bc)
 * [What is a microservice architecture and it's advantages?](https://www.youtube.com/watch?v=qYhRvH9tJKw)
@@ -26,6 +26,7 @@
 * [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=9)
 * [Horizontal vs. Vertical Scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=11)
+* [Data Consistency and Tradeoffs in Distributed Systems](https://www.youtube.com/watch?v=m4q7VkgDWrM&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=13)
 
 
 # System Design Problems
