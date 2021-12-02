@@ -13,6 +13,8 @@
 * Logging 
 * Extensible
 # System Design -- Gaurav Sen
+* [Five common system design interview mistakes](https://www.youtube.com/watch?v=z_YuqLmGZuo&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=18)
+* [5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=15)
 * [What is Consistent Hashing and Where is it used?](https://www.youtube.com/watch?v=zaRkONvyGr8&t=326s)
 * [What is a Message Queue and Where is it used?](https://www.youtube.com/watch?v=oUJbuFMyBDk)
 * [Why do Databases fail? AntiPatterns to avoid!](https://www.youtube.com/watch?v=9T-gNZ5bGCw)
@@ -27,6 +29,12 @@
 * [Horizontal vs. Vertical Scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=11)
 * [Data Consistency and Tradeoffs in Distributed Systems](https://www.youtube.com/watch?v=m4q7VkgDWrM&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=13)
+* [How Netflix onboards new content: Video Processing at scale](https://www.youtube.com/watch?v=x9Hrn0oNmJM&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=14)
+* [Introduction to NoSQL databases](https://www.youtube.com/watch?v=xQnIN9bW0og&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=16)
+* [Tinder as a microservice architecture](https://www.youtube.com/watch?v=tndzLznxq40&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=17)
+* [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=19)
+* [How to avoid cascading failures in a distributed system](https://www.youtube.com/watch?v=xrizarXJgC8&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=20)
+* [Whatsapp System Design: Chat Messaging System](https://www.youtube.com/watch?v=vvhC64hQZMk&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=21)
 
 
 # System Design Problems
