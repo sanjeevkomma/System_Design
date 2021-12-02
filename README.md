@@ -40,9 +40,6 @@
 # System Design Problems
 * [Design Vending Machine](https://javarevisited.blogspot.com/2016/06/design-vending-machine-in-java.html#axzz4sZVwtCgs)
 * [Design URL Shortening Service](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR?affiliate_id=5073518643380224)
-*
-
-
 * Design Traffic Control System
 * [Design Limit Order Book](https://javarevisited.blogspot.com/2017/03/2-practical-data-structure-algorithm-interview-questions-java.html#axzz7DiOF6kdu)
 * Design Website Like Pastebin
