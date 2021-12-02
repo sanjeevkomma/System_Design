@@ -35,6 +35,8 @@
 * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=19)
 * [How to avoid cascading failures in a distributed system](https://www.youtube.com/watch?v=xrizarXJgC8&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=20)
 * [Whatsapp System Design: Chat Messaging System](https://www.youtube.com/watch?v=vvhC64hQZMk&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=21)
+* [Capacity Planning and Estimation: How much data does YouTube store daily?](https://www.youtube.com/watch?v=0myM0k1mjZw&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=23)
+* [System Design Interview: TikTok architecture with @sudoCODE](https://www.youtube.com/watch?v=07BVxmVFDGY&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=24)
 
 
 # System Design Problems
