@@ -12,6 +12,8 @@
 * Decoupling 
 * Logging 
 * Extensible
+# System Design -- Gaurav Sen
+* [What is Consistent Hashing and Where is it used?](https://www.youtube.com/watch?v=zaRkONvyGr8&t=326s)
 # System Design Problems
 * [Design Vending Machine](https://javarevisited.blogspot.com/2016/06/design-vending-machine-in-java.html#axzz4sZVwtCgs)
 * [Design URL Shortening Service](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR?affiliate_id=5073518643380224)
