@@ -24,6 +24,8 @@
 * [Moving from Monoliths to Microservices](https://www.youtube.com/watch?v=rckfN7xFig0&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=6)
 * [What is the Publisher Subscriber Model?](https://www.youtube.com/watch?v=FMhbR_kQeHw&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=8)
 * [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=9)
+* [Horizontal vs. Vertical Scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+* [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=11)
 
 
 # System Design Problems
@@ -71,7 +73,6 @@
 * Batch Processing VS Stream Processing 
 * Micro Batch = Batch + Stream, short span of time 
 # Reference
-* [System Design Basics](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md)
 
