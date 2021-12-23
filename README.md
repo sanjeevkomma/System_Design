@@ -77,7 +77,7 @@
 * Leverage  = 
 * Retention = 
 * Consistent =  
-* Fault Tolerant =  
+* Fault Tolerant = fall back
 * Batch Processing VS Stream Processing 
 * Micro Batch = Batch + Stream, short span of time 
 # Reference
