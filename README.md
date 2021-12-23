@@ -66,7 +66,7 @@
 * Synchronous  = 
 * Asynchronous  = 
 * Redundancy  = 
-* Resilient  = 
+* Resilient  = Recover quickly from difficult conditions
 * Availability = System uptime  
 * Reliability  = 
 * Durability  = 
