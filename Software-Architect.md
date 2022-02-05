@@ -10,6 +10,8 @@
 * Deployment
 * Technology Stack
 
+# Terminology
+* SOA = Service Oriented Architecture
 
 # Types of Programming Languages
 | #Type | #Languages |
@@ -20,6 +22,7 @@
 | Scripting Programming Language  |  |
 | Declarative programming language  |  |
 
+# Throught Process
 
 # Functional Requirements
 
