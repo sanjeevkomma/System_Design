@@ -1,7 +1,9 @@
 # Definition
+* System Design is the process of designing the architecture, components and interfaces for a system so that it meets the end-user requirements
 
 # To Read
-* System Design is the process of designing the architecture, components and interfaces for a system so that it meets the end-user requirements
+ 
+
 # System Design Basics
 * vertical scaling: optimise precision and increase through put with the same resources 
 * preprossing (e.g cron job) : prepare before hand during non pick hours 
