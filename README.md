@@ -77,8 +77,8 @@
 * Scalability  = 
 * System Downtime = 
 * API vs Event = 
-* Leverage  = 
-* Retention = 
+* Leverage  = Use (something) to maximum advantage
+* Retention = Holding
 * Consistent =  
 * Fault Tolerant = fall back
 * Batch Processing VS Stream Processing 
