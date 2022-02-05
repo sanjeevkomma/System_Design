@@ -1,6 +1,7 @@
+# Definition
+
 # To Read
 * System Design is the process of designing the architecture, components and interfaces for a system so that it meets the end-user requirements
-* [System Design Interview Questions for Java](https://dzone.com/articles/top-20-system-design-interview-questions-for-java)
 # System Design Basics
 * vertical scaling: optimise precision and increase through put with the same resources 
 * preprossing (e.g cron job) : prepare before hand during non pick hours 
@@ -83,4 +84,5 @@
 # Reference
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md)
+* [System Design Interview Questions for Java](https://dzone.com/articles/top-20-system-design-interview-questions-for-java)
 
