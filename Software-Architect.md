@@ -2,6 +2,14 @@
 
 # To Read
 * Need for Architecure = Distributed Systems, Device Explosion, Enormous Scale, Technology Evolution
+* Goal of an Architect = Technology Supports / Enables Business needs. Architect the applications that meets Business needs
+
+# Business Needs
+* Fucntional Requirements = 
+* Non Functional Requirements or System Requirements = Availablity, Scaling etc
+* Quick Feature Release = 
+* Early Feedback = 
+* Quick Trouble Shooting & Support =
 
 # Developer To Architect
 * Performance
@@ -23,11 +31,10 @@
 | Scripting Programming Language  |  |
 | Declarative programming language  |  |
 
-# Throught Process
+# Fundamentals of Software Architect
 
-# Functional Requirements
+# Throught Process of Software Architect
 
-# Non Functional Requirements or System Requirements
 
 # Architectural Patterns
 1. Layered pattern
