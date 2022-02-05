@@ -1,6 +1,7 @@
 # Defintion
 
 # To Read
+* Need for Architecure = Distributed Systems, Device Explosion, Enormous Scale, Technology Evolution
 
 # Developer To Architect
 * Performance
