@@ -14,9 +14,9 @@
 # Types of Programming Languages
 | #Type | #Languages |
 | :---: | :---: | 
-| Procedural Programming Language  |  |
+| Procedural Programming Language  |  C |
 | Functional Programming Language  |  |
-| Object-oriented Programming Language  | Java |
+| Object-oriented Programming Language  | C++ , Java |
 | Scripting Programming Language  |  |
 | Declarative programming language  |  |
 
