@@ -10,6 +10,17 @@
 * Deployment
 * Technology Stack
 
+
+# Types of Programming Languages
+| #Type | #Languages |
+| :---: | :---: | 
+| Procedural Programming Language  |  |
+| Functional Programming Language  |  |
+| Object-oriented Programming Language  | Java |
+| Scripting Programming Language  |  |
+| Declarative programming language  |  |
+
+
 # Functional Requirements
 
 # Non Functional Requirements or System Requirements
