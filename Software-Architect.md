@@ -32,6 +32,10 @@
 | Declarative programming language  |  |
 
 # Fundamentals of Software Architect
+1. Technical Capabilities
+2. Domain Knowledge
+3. Soft Skills
+
 
 # Throught Process of Software Architect
 
