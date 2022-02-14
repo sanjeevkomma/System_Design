@@ -66,8 +66,8 @@
 * Design an Elevator of the Lift System
 # Terminology
 * Latency = delay in response 
-* Synchronous  = 
-* Asynchronous  = 
+* Synchronous  = happens at the same time
+* Asynchronous  = doesn't happen at the same time
 * Redundancy  = 
 * Resilient  = Recover quickly from difficult conditions
 * Availability = System uptime  
