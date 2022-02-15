@@ -55,3 +55,4 @@
 # Reference
 * [10 Common Software Architectural Patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [How to Become a Software Architect](https://www.youtube.com/watch?v=tA447bc9Q8c&list=PLKagroNdr16MUYj8L2rRkwlX5VODgXB4J&index=6)
+* [How to Become an Architect - Code Reviews](https://www.youtube.com/watch?v=ZBO3JTYgHwU&list=PLBBog2r6uMCS0FX6Ym_8NYeTNykUF5970&index=6)
