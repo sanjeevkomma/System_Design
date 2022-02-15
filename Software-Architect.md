@@ -3,6 +3,7 @@
 # To Read
 * Need for Architecure = Distributed Systems, Device Explosion, Enormous Scale, Technology Evolution
 * Goal of an Architect = Technology Supports / Enables Business needs. Architect the applications that meets Business needs
+* Asynchronous Architecture is an Event-based, non-blocking architecture
 
 # Business Needs
 * Fucntional Requirements = 
