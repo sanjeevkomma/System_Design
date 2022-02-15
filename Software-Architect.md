@@ -38,7 +38,7 @@
 3. Soft Skills
 
 
-# Throught Process of Software Architect
+# Thought Process of Software Architect
 
 
 # Architectural Patterns
