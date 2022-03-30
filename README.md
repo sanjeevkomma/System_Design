@@ -15,6 +15,9 @@
 * Decoupling 
 * Logging 
 * Extensible
+
+# Components of System Design
+
 # System Design -- Gaurav Sen
 * [Five common system design interview mistakes](https://www.youtube.com/watch?v=z_YuqLmGZuo&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=18)
 * [5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=15)
