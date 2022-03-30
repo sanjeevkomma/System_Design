@@ -1,4 +1,4 @@
-package j2se.creational;
+package j2ee.presentation_layer;
 
 // double check locking
 public class Singleton_DP {

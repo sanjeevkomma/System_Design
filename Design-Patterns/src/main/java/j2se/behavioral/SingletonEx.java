@@ -1,4 +1,4 @@
-package com.demo;
+package j2se.behavioral;
 
 //Java code to explain double check locking
 public class SingletonEx

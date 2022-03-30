@@ -1,4 +1,4 @@
-package com.demo;
+package j2ee.integration_layer;
 
 //Java code to explain double check locking
 public class SingletonEx

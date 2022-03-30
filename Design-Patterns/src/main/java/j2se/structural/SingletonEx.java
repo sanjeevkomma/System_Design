@@ -1,4 +1,4 @@
-package com.demo;
+package j2se.structural;
 
 //Java code to explain double check locking
 public class SingletonEx
