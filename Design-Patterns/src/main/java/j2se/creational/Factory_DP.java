@@ -1,5 +1,6 @@
 package j2se.creational;
 
+// Use the Factory to get object of concrete class by passing an information such as type
 public class Factory_DP {
 
 	public static void main(String[] args) {
@@ -20,13 +21,13 @@ public class Factory_DP {
 	}
 }
 
-// 
+// Create an interface
 interface Shape {
 
 	void draw();
 }
 
-//
+// Create concrete classes implementing the same interface
 class Rectangle implements Shape {
 
 	public void draw() {
@@ -53,7 +54,7 @@ class Circle implements Shape {
 	}
 }
 
-//
+// Create a Factory to generate object of concrete class based on given information
 class ShapeFactory {
 
 	public Shape getShape( String shapeType ) {
