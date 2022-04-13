@@ -43,6 +43,7 @@
 * [Whatsapp System Design: Chat Messaging System](https://www.youtube.com/watch?v=vvhC64hQZMk&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=21)
 * [Capacity Planning and Estimation: How much data does YouTube store daily?](https://www.youtube.com/watch?v=0myM0k1mjZw&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=23)
 * [System Design Interview: TikTok architecture with @sudoCODE](https://www.youtube.com/watch?v=07BVxmVFDGY&list=RDCMUCRPMAqdtSgd0Ipeef7iFsKw&index=24)
+* [IRCTC System Design](https://www.youtube.com/watch?v=j3etJx7M0Sc)
 
 
 # System Design Problems
