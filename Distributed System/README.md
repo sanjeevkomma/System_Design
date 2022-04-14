@@ -3,8 +3,6 @@
 
 # To Read
  
-# System Design Problems
-
 # Terminology
 
 # Reference
