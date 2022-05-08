@@ -24,6 +24,7 @@
 # Reference
 * https://principles.design/
 * [What is an example of the Liskov Substitution Principle?](https://stackoverflow.com/questions/56860/what-is-an-example-of-the-liskov-substitution-principle)
+* [Object Oriented Design Principles](https://www.oodesign.com/)
 
 
 # Image
