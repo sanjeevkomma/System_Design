@@ -1,6 +1,12 @@
 # To Read
 * The Open/Close principle is mainly used to prevent regression and ensure backward compatibility
 
+# Terminology
+* Composition = part-of relationship
+* Inheritance = is-a relationship
+* Aggregation = has-a relationship
+* Association = Composition is a strong Association & Aggregation is a weak Association
+
 
 # Table
 | #Principle  | #Usage |
@@ -10,8 +16,8 @@
 | [Liskov Substitution Principle](https://stackify.com/solid-design-liskov-substitution-principle/) | Objects should be replaceable by their subtypes |
 | [Interface Segregation Principle](https://stackify.com/interface-segregation-principle/) | Clients should not be forced to depend upon interfaces that they do not use |
 | [Dependency Inversion Principle](https://stackify.com/dependency-inversion-principle/) | 1. Abstractions should not depend on details. Details should depend on abstractions 2. High-level modules should not depend on low-level modules. Both should depend on abstractions |
-| DRY Principles |  |
-| KISS Principle |  |
+| DRY(Don't Repeat Yourself) Principle | Don't write the same code repeatedly |
+| KISS(Keep It Simple, Stupid) Principle | To keep the code simple and clear, making it easy to understand |
 | Composition Over Inheritance Principle |  |
 
 
