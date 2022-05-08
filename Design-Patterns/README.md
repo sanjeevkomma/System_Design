@@ -5,10 +5,10 @@
 | #Design Pattern  | #Intent |
 | :---: | :---: | 
 | Factory Pattern | 1. creates objects without exposing the instantiation logic to the client. 2. refers to the newly created object through a common interface  |
-| Abstract Factory Pattern | Java, Spring Boot IDE |
-| Singleton Pattern | Java IDE |
-| Prototype Pattern | Java, Kotlin IDE |
-| Builder Pattern | Python, React JS , JavaScript IDE |
+| Abstract Factory Pattern | Abstract Factory offers the interface for creating a family of related objects, without explicitly specifying their classes |
+| Singleton Pattern | 1. Ensure that only one instance of a class is created 2. Provide a global point of access to the object |
+| Prototype Pattern | 1. specifying the kind of objects to create using a prototypical instance 2. creating new objects by copying this prototype |
+| Builder Pattern | 1. Defines an instance for creating an object but letting subclasses decide which class to instantiate 2. Refers to the newly created object through a common interface |
 
 # Structural Design Pattern
 1. Adapter Pattern
