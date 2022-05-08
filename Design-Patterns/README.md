@@ -1,5 +1,6 @@
 # Reference
-* https://www.educative.io/courses/software-design-patterns-best-practices
+* [software-design-patterns-best-practices](https://www.educative.io/courses/software-design-patterns-best-practices)
+* [Object Oriented Design Patterns](https://www.oodesign.com/)
 # J2SE Design Patterns
 # Creational Design Pattern
 1. Factory Pattern
