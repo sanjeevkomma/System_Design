@@ -9,7 +9,7 @@
 | Open/Close Principle | Method / Object / Class should be opened / closed for modification |
 | Liskov Substitution Principle | Objects should be replaceable by their subtypes |
 | Interface Segregation Principle | Clients should not be forced to depend upon interfaces that they do not use |
-| Dependency Inversion Principle | 1. Abstractions should not depend on details. Details should depend on abstractions 2. High-level modules should not depend on low-level modules. Both should depend on abstractions |
+| [Dependency Inversion Principle](https://stackify.com/dependency-inversion-principle/) | 1. Abstractions should not depend on details. Details should depend on abstractions 2. High-level modules should not depend on low-level modules. Both should depend on abstractions |
 | DRY Principles |  |
 | KISS Principle |  |
 | Composition Over Inheritance Principle |  |
