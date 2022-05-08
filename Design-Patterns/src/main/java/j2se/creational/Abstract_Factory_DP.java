@@ -78,7 +78,7 @@ abstract class AbstractFactory {
 
 
 //
-class ShapeFactoryy extends AbstractFactory {
+class OvalShapeFactoryy extends AbstractFactory {
 
 	public Shapes getShape(String shapeType){   
 
@@ -122,7 +122,7 @@ class FactoryProducer {
 
 		} else {
 
-			return new ShapeFactoryy();
+			return new OvalShapeFactoryy();
 		}
 	}
 }
