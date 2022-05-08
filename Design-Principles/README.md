@@ -18,7 +18,7 @@
 | [Dependency Inversion Principle](https://stackify.com/dependency-inversion-principle/) | 1. Abstractions should not depend on details. Details should depend on abstractions 2. High-level modules should not depend on low-level modules. Both should depend on abstractions |
 | DRY(Don't Repeat Yourself) Principle | Don't write the same code repeatedly |
 | KISS(Keep It Simple, Stupid) Principle | To keep the code simple and clear, making it easy to understand |
-| Composition Over Inheritance Principle |  |
+| Composition Over Inheritance Principle | Use part-of relationship over is-a relationship |
 
 
 # Reference
