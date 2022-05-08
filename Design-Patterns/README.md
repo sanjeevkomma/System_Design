@@ -11,7 +11,10 @@
 | Builder Pattern | 1. Defines an instance for creating an object but letting subclasses decide which class to instantiate 2). Refers to the newly created object through a common interface |
 
 # Structural Design Pattern
-1. Adapter Pattern
+| #Design Pattern  | #Intent |
+| :---: | :---: | 
+| Adapter Pattern |  |
+
 2. Bridge Pattern
 3. Composite Pattern
 4. Decorator Pattern
