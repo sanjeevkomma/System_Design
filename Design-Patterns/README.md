@@ -1,6 +1,7 @@
 # To Read
 
-# Table
+# J2SE Design Patterns
+# Creational Design Pattern
 | #Design Pattern  | #Intent |
 | :---: | :---: | 
 | Factory Pattern | 1. creates objects without exposing the instantiation logic to the client. 2. refers to the newly created object through a common interface  |
@@ -9,15 +10,6 @@
 | Prototype Pattern | Java, Kotlin IDE |
 | Builder Pattern | Python, React JS , JavaScript IDE |
 
-# J2SE Design Patterns
-# Creational Design Pattern
-| #Design Pattern  | #Intent |
-| :---: | :---: | 
-1. Factory Pattern
-2. Abstract Factory Pattern
-3. Singleton Pattern
-4. Prototype Pattern
-5. Builder Pattern
 # Structural Design Pattern
 1. Adapter Pattern
 2. Bridge Pattern
