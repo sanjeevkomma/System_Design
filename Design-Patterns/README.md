@@ -14,25 +14,28 @@
 | #Design Pattern  | #Intent |
 | :---: | :---: | 
 | Adapter Pattern |  |
+| Bridge Pattern |  |
+| Composite Pattern |  |
+| Decorator Pattern |  |
+| Facade Pattern |  |
+| Flyweight Pattern |  |
+| Proxy Pattern |  |
 
-2. Bridge Pattern
-3. Composite Pattern
-4. Decorator Pattern
-5. Facade Pattern
-6. Flyweight Pattern
-7. Proxy Pattern
 # Behavioral Design Pattern
-1. Chain Of Responsibility Pattern
-2. Command Pattern
-3. Interpreter Pattern
-4. Iterator Pattern
-5. Mediator Pattern
-6. Memento Pattern
-7. Observer Pattern
-8. State Pattern
-9. Strategy Pattern
-10. Template Pattern
-11. Visitor Pattern
+| #Design Pattern  | #Intent |
+| :---: | :---: | 
+| Chain Of Responsibility Pattern |  |
+| Command Pattern |  |
+| Interpreter Pattern |  |
+| Iterator Pattern |  |
+| Mediator Pattern |  |
+| Memento Pattern |  |
+| Observer Pattern |  |
+| State Pattern |  |
+| Strategy Pattern |  |
+| Template Pattern |  |
+| Visitor Pattern |  |
+
 # J2EE Design Patterns
 # Presentation Layer Design Pattern
 1. Intercepting Filter Pattern
