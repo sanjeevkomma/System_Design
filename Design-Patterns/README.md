@@ -24,17 +24,18 @@
 # Behavioral Design Pattern
 | #Design Pattern  | #Intent |
 | :---: | :---: | 
-| Chain Of Responsibility Pattern |  |
-| Command Pattern |  |
-| Interpreter Pattern |  |
-| Iterator Pattern |  |
-| Mediator Pattern |  |
-| Memento Pattern |  |
-| Observer Pattern |  |
+| Chain Of Responsibility Pattern |1. It avoids attaching the sender of a request to its receiver, giving this way other objects the possibility of handling the request too 2. The objects become parts of a chain and the request is sent from one object to another across the chain until one of the objects will handle it  |
+| Command Pattern |1. encapsulate a request in an object 2. allows the parameterization of clients with different requests 3. allows saving the requests in a queue  |
+| Interpreter Pattern |1. Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language 2. Map a domain to a language, the language to a grammar, and the grammar to a hierarchical object-oriented design  |
+| Iterator Pattern |Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation  |
+| Mediator Pattern |Define an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently  |
+| Memento Pattern |The intent of this pattern is to capture the internal state of an object without violating encapsulation and thus providing a mean for restoring the object into initial state when needed  |
+| Observer Pattern |Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically  |
 | State Pattern |  |
-| Strategy Pattern |  |
-| Template Pattern |  |
-| Visitor Pattern |  |
+| Strategy Pattern | Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it |
+| Template Method Pattern |1. Define the skeleton of an algorithm in an operation, deferring some steps to subclasses 2. Template Method lets subclasses redefine certain steps of an algorithm without letting them to change the algorithm's structure |
+| Visitor Pattern |1. Represents an operation to be performed on the elements of an object structure 2. Visitor lets you define a new operation without changing the classes of the elements on which it operates  |
+|Null Object Pattern|1. Provide an object as a surrogate for the lack of an object of a given type 2. The Null Object Pattern provides intelligent do nothing behavior, hiding the details from its collaborators |
 
 # J2EE Design Patterns
 # Presentation Layer Design Pattern
