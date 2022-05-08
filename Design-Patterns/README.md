@@ -13,13 +13,13 @@
 # Structural Design Pattern
 | #Design Pattern  | #Intent |
 | :---: | :---: | 
-| Adapter Pattern |  |
-| Bridge Pattern |  |
-| Composite Pattern |  |
-| Decorator Pattern |  |
+| Adapter Pattern |1. Convert the interface of a class into another interface clients expect 2). Adapter lets classes work together, that could not otherwise because of incompatible interfaces  |
+| Bridge Pattern | The intent of this pattern is to decouple abstraction from implementation so that the two can vary independently  |
+| Composite Pattern |1. The intent of this pattern is to compose objects into tree structures to represent part-whole hierarchies 2. Composite lets clients treat individual objects and compositions of objects uniformly  |
+| Decorator Pattern | The intent of this pattern is to add additional responsibilities dynamically to an object |
 | Facade Pattern |  |
-| Flyweight Pattern |  |
-| Proxy Pattern |  |
+| Flyweight Pattern | The intent of this pattern is to use sharing to support a large number of objects that have part of their internal state in common where the other part of state can vary |
+| Proxy Pattern |The intent of this pattern is to provide a Placeholder for an object to control references to it  |
 
 # Behavioral Design Pattern
 | #Design Pattern  | #Intent |
