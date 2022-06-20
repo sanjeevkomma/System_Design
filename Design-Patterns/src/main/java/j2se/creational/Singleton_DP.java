@@ -26,4 +26,10 @@ public class Singleton_DP {
 		}
 		return instance;
 	}
+	
+	@Override
+	public Object clone() throws CloneNotSupportedException {
+	    
+		throw new CloneNotSupportedException(); 
+	}
 }
