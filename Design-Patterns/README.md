@@ -55,5 +55,6 @@
 # Reference
 * [software-design-patterns-best-practices](https://www.educative.io/courses/software-design-patterns-best-practices)
 * [Object Oriented Design Patterns](https://www.oodesign.com/)
+* [Design Patterns - journaldev](https://www.journaldev.com/1827/java-design-patterns-example-tutorial?utm_source=newsletter&utm_medium=sendy&utm_campaign=emails)
 
 
