@@ -10,7 +10,7 @@
 |:---: | :---: | :---: | 
 |1 |Class diagram |  |
 |2 |Package diagram |  |
-|3 |Object diagram |  |
+|3 |Object diagram |Object diagrams describe the static structure of a system at a particular time. They can be used to test class diagrams for accuracy  |
 |4 |Component  diagram |  |
 |5 |Composite structure diagram |  |
 |6 |Deployment diagram |  |
