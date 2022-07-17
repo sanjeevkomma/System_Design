@@ -1,4 +1,4 @@
-# Nonfunctional Requirements
+# Non Functional Requirements
 |SNo| #Nonfunctional  | ##Intent |
 | :---: | :---: | :---: |
 | 1 |Security | |
