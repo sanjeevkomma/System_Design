@@ -1,4 +1,4 @@
-package com.javatechie.solid.dip;
+package dip;
 
 public class DebitCard implements BankCard{
 

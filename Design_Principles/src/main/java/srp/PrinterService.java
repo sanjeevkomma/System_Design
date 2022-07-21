@@ -1,4 +1,4 @@
-package com.javatechie.solid.srp;
+package srp;
 
 public class PrinterService {
 

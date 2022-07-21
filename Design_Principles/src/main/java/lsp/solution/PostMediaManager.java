@@ -1,4 +1,4 @@
-package com.javatechie.solid.lsp.solution;
+package lsp.solution;
 
 public interface PostMediaManager {
 

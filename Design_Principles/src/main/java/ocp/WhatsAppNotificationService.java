@@ -1,4 +1,4 @@
-package com.javatechie.solid.ocp;
+package ocp;
 
 public class WhatsAppNotificationService implements Notificationservice {
 

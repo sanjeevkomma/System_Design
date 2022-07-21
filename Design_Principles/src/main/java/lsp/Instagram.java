@@ -1,4 +1,4 @@
-package com.javatechie.solid.lsp;
+package lsp;
 
 public class Instagram extends SocialMedia {
 

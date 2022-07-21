@@ -1,5 +1,4 @@
-package com.javatechie.solid.dip;
-
+package dip;
 public class ShoppingMall {
 
     private BankCard bankCard;

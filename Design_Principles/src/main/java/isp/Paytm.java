@@ -1,4 +1,4 @@
-package com.javatechie.solid.isp;
+package isp;
 
 public class Paytm implements UPIPayments {
 
