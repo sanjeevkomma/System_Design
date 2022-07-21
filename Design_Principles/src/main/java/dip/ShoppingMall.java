@@ -1,4 +1,7 @@
 package dip;
+
+import dip.impl.CreditCard;
+
 public class ShoppingMall {
 
     private BankCard bankCard;

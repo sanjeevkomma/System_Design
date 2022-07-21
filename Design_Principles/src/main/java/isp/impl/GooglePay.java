@@ -1,4 +1,7 @@
-package isp;
+package isp.impl;
+
+import isp.CashBackManager;
+import isp.UPIPayments;
 
 public class GooglePay implements UPIPayments,CashBackManager {
 

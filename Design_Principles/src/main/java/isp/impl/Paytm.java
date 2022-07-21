@@ -1,4 +1,6 @@
-package isp;
+package isp.impl;
+
+import isp.UPIPayments;
 
 public class Paytm implements UPIPayments {
 

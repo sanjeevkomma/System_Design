@@ -1,7 +1,11 @@
-package lsp.solution;
+package lsp.solution.impl;
+
+import lsp.solution.SocialMedia;
+import lsp.solution.SocialVideoCallManager;
 
 public class WhatsApp implements SocialMedia,SocialVideoCallManager {
-    public void chatWithFriend() {
+   
+	public void chatWithFriend() {
 
     }
 

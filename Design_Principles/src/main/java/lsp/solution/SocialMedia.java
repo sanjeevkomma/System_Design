@@ -2,8 +2,8 @@ package lsp.solution;
 
 public interface SocialMedia {
 
-    public   void chatWithFriend();
+    public void chatWithFriend();
 
-    public   void sendPhotosAndVideos();
+    public void sendPhotosAndVideos();
 
 }

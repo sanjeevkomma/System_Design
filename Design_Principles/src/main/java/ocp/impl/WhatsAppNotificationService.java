@@ -1,4 +1,6 @@
-package ocp;
+package ocp.impl;
+
+import ocp.Notificationservice;
 
 public class WhatsAppNotificationService implements Notificationservice {
 

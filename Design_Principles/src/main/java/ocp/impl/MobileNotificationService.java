@@ -1,7 +1,10 @@
-package ocp;
+package ocp.impl;
+
+import ocp.Notificationservice;
 
 public class MobileNotificationService implements Notificationservice {
-    public void sendOTP(String medium) {
+    
+	public void sendOTP(String medium) {
         //write the logic to send otp to mobile
         //twillo api
 

@@ -1,4 +1,6 @@
-package dip;
+package dip.impl;
+
+import dip.BankCard;
 
 public class DebitCard implements BankCard{
 
