@@ -10,7 +10,7 @@
 
 # Table
 |#SNo| #Principle  | #Intent |
-| :---: | :---: | :---: | 
+| :--- | :--- | :--- | 
 |1 | [Single Responsibility Principle](https://stackify.com/solid-design-principles/) | One Class & One Functionality. A class should have one and only one reason to change |
 |2| [Open/Close Principle](https://stackify.com/solid-design-open-closed-principle/) | Method / Object / Class / Module should be open for extension, but closed for modification |
 |3| [Liskov Substitution Principle](https://stackify.com/solid-design-liskov-substitution-principle/) | 1. Derived types must be completely substitutable for their base types 2. Objects should be replaceable by their subtypes. For example, if we have a Car object, it can be used in the code as a Vehicle 3. The derived types must not change the behavior of the base types |
