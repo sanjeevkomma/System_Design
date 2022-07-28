@@ -1,9 +1,9 @@
 1. Simple Factory Pattern
-* ![image](https://user-images.githubusercontent.com/7721150/181523865-5f01743b-946c-4baf-a7f0-0872a4951374.png)
+* ![image](https://user-images.githubusercontent.com/7721150/181525341-9735f3a8-19c7-47b3-b3ed-13580860f55c.png)
 2. Factory Method Pattern
-* ![image](https://user-images.githubusercontent.com/7721150/181524030-295b73cb-feff-407b-9cb7-e6fc6040da0b.png)
+* ![image](https://user-images.githubusercontent.com/7721150/181525493-99589a4e-82c5-4fe8-80a6-69447d0a063a.png)
 3. Abstract Factory pattern (factory of factories)
-* ![image](https://user-images.githubusercontent.com/7721150/181524796-d00661af-4e5b-4a12-870b-6aba173af4c8.png)
+* ![image](https://user-images.githubusercontent.com/7721150/181525827-7a5ea93b-5172-40fe-a398-3b66adcd0b56.png)
 
 # Image
 1. Factory Design Pattern
