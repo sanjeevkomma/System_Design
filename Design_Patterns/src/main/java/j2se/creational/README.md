@@ -3,7 +3,7 @@
 2. Factory Method Pattern
 * ![image](https://user-images.githubusercontent.com/7721150/181524030-295b73cb-feff-407b-9cb7-e6fc6040da0b.png)
 3. Abstract Factory pattern (factory of factories)
-* ![image](https://user-images.githubusercontent.com/7721150/181524316-e2a6cfbc-179b-4fd0-b515-de01998c0cee.png)
+* ![image](https://user-images.githubusercontent.com/7721150/181524796-d00661af-4e5b-4a12-870b-6aba173af4c8.png)
 
 # Image
 1. Factory Design Pattern
