@@ -1,5 +1,6 @@
 # To Read
 * The Open/Close principle is mainly used to prevent regression and ensure backward compatibility
+* Difference between LSP & ISP  = 
 
 # Terminology
 * Composition = part-of relationship
