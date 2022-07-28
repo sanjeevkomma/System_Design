@@ -2,13 +2,13 @@
 
 # J2SE Design Patterns
 # Creational Design Pattern
-|#SNo| #Design Pattern  | #Intent |
-| :---| :--- | :--- | 
-|1 | Factory Pattern | 1. creates objects without exposing the instantiation logic to the client. 2). refers to the newly created object through a common interface  |
-|2 | Abstract Factory Pattern | Abstract Factory offers the interface for creating a family of related objects, without explicitly specifying their classes |
-|3 | Singleton Pattern | 1. Ensure that only one instance of a class is created 2). Provide a global point of access to the object |
-|4 | Prototype Pattern | 1. specifying the kind of objects to create using a prototypical instance 2). creating new objects by copying this prototype |
-|5 | Builder Pattern | 1. Defines an instance for creating an object but letting subclasses decide which class to instantiate 2). Refers to the newly created object through a common interface |
+|#SNo| #Design Pattern  | #Intent |#When to Use |#Common Usage |
+| :---| :--- | :--- |:--- |:--- | 
+|1 | Factory Pattern | 1. creates objects without exposing the instantiation logic to the client. 2). refers to the newly created object through a common interface  |  |  |
+|2 | Abstract Factory Pattern | Abstract Factory offers the interface for creating a family of related objects, without explicitly specifying their classes |  |  |
+|3 | Singleton Pattern | 1. Ensure that only one instance of a class is created 2). Provide a global point of access to the object |  |  |
+|4 | Prototype Pattern | 1. specifying the kind of objects to create using a prototypical instance 2). creating new objects by copying this prototype |  |  |
+|5 | Builder Pattern | 1. Defines an instance for creating an object but letting subclasses decide which class to instantiate 2). Refers to the newly created object through a common interface |  |  |
 
 # Structural Design Pattern
 |#SNo| #Design Pattern  | #Intent |
