@@ -3,7 +3,7 @@
 # J2SE Design Patterns
 # Creational Design Pattern
 |#SNo| #Design Pattern  | #Intent |
-| :---:| :---: | :---: | 
+| :---| :--- | :--- | 
 |1 | Factory Pattern | 1. creates objects without exposing the instantiation logic to the client. 2). refers to the newly created object through a common interface  |
 |2 | Abstract Factory Pattern | Abstract Factory offers the interface for creating a family of related objects, without explicitly specifying their classes |
 |3 | Singleton Pattern | 1. Ensure that only one instance of a class is created 2). Provide a global point of access to the object |
@@ -12,7 +12,7 @@
 
 # Structural Design Pattern
 |#SNo| #Design Pattern  | #Intent |
-| :---:| :---: | :---: | 
+| :---| :--- | :--- | 
 |1 | Adapter Pattern |1. Convert the interface of a class into another interface clients expect 2). Adapter lets classes work together, that could not otherwise because of incompatible interfaces  |
 | 2| Bridge Pattern | The intent of this pattern is to decouple abstraction from implementation so that the two can vary independently  |
 | 3| Composite Pattern |1. The intent of this pattern is to compose objects into tree structures to represent part-whole hierarchies 2. Composite lets clients treat individual objects and compositions of objects uniformly  |
@@ -23,7 +23,7 @@
 
 # Behavioral Design Pattern
 |#SNo| #Design Pattern  | #Intent |
-| :---:| :---: | :---: | 
+| :---| :--- | :--- | 
 |1 | Chain Of Responsibility Pattern |1. It avoids attaching the sender of a request to its receiver, giving this way other objects the possibility of handling the request too 2. The objects become parts of a chain and the request is sent from one object to another across the chain until one of the objects will handle it  |
 | 2| Command Pattern |1. encapsulate a request in an object 2. allows the parameterization of clients with different requests 3. allows saving the requests in a queue  |
 | 3| Interpreter Pattern |1. Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language 2. Map a domain to a language, the language to a grammar, and the grammar to a hierarchical object-oriented design  |
@@ -40,7 +40,7 @@
 # J2EE Design Patterns
 # Presentation Layer Design Pattern
 |#SNo| #Design Pattern  | #Intent |
-| :---:| :---: | :---: |
+| :---| :--- | :--- |
 | 1|Intercepting Filter Pattern| |
 | 2|Front Controller Pattern| |
 | 3|View Helper Pattern| |
@@ -48,7 +48,7 @@
 
 # Business Layer Design Pattern
 |#SNo| #Design Pattern  | #Intent |
-| :---:| :---: | :---: |
+| :---| :--- | :--- |
 | 1|Business Delegate Patternn| |
 | 2|Service Locator Pattern| |
 | 3|Session Facade Pattern| |
@@ -56,7 +56,7 @@
 
 # Integration Layer Design Pattern
 |#SNo| #Design Pattern  | #Intent |
-| :---:| :---: | :---: |
+| :---| :--- | :--- |
 | 1|Data Access Object Pattern| |
 | 2| Web Service Broker Pattern| |
 
