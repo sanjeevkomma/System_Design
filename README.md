@@ -4,7 +4,7 @@
 # To Read
  
 # Dimensions of System Design
-|SNo| #imension  | #Intent |
+|SNo| #Dimension  | #Intent |
 |:--- | :--- | :--- | 
 |1 |Scalability | A solid system must be scalable. This means that it can handle additional load and will operate with efficiency while doing so |
 | 2|Reliability |Systems must also be reliable. They perform the way they are supposed to. Systems need to handle user mistakes while performing according to the specified requirements. Reliability also means that unauthorized access to the system can be thwarted  |
