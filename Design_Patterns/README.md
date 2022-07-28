@@ -4,11 +4,12 @@
 # Creational Design Pattern
 |#SNo| #Design Pattern  | #Intent |#When to Use |#Common Usage |
 | :---| :--- | :--- |:--- |:--- | 
-|1 | Factory Pattern | 1. creates objects without exposing the instantiation logic to the client. <br>2). refers to the newly created object through a common interface  |  |  |
-|2 | Abstract Factory Pattern | Abstract Factory offers the interface for creating a family of related objects, without explicitly specifying their classes |  |  |
-|3 | Singleton Pattern | 1. Ensure that only one instance of a class is created <br> 2. Provide a global point of access to the object |1. Singleton pattern should be used when we must ensure that only one instance of a class is created and when the instance must be available through all the code <br>2. A special care should be taken in multi-threading environments when multiple threads must access the same resources through the same singleton object.  | 1. Logger Classes<br>2.Configuration Classes <br>3.Accesing resources in shared mode <br>4. Other design patterns implemented as Singletons: Factories and Abstract Factories, Builder, Prototype |
-|4 | Prototype Pattern | 1. specifying the kind of objects to create using a prototypical instance <br>2). creating new objects by copying this prototype |  |  |
-|5 | Builder Pattern | 1. Defines an instance for creating an object but letting subclasses decide which class to instantiate <br>2). Refers to the newly created object through a common interface |  |  |
+|1 | Factory Pattern(Simplified version of Factory Method)| 1. creates objects without exposing the instantiation logic to the client and refers to the newly created object through a common interface  |  |  |
+|2 | Factory Method Pattern | 1. creates objects without exposing the instantiation logic to the client and refers to the newly created object through a common interface  |  |  |
+|3 | Abstract Factory Pattern | Abstract Factory offers the interface for creating a family of related objects, without explicitly specifying their classes |  |  |
+|4 | Singleton Pattern | 1. Ensure that only one instance of a class is created <br> 2. Provide a global point of access to the object |1. Singleton pattern should be used when we must ensure that only one instance of a class is created and when the instance must be available through all the code <br>2. A special care should be taken in multi-threading environments when multiple threads must access the same resources through the same singleton object.  | 1. Logger Classes<br>2.Configuration Classes <br>3.Accesing resources in shared mode <br>4. Other design patterns implemented as Singletons: Factories and Abstract Factories, Builder, Prototype |
+|5 | Prototype Pattern | 1. specifying the kind of objects to create using a prototypical instance <br>2). creating new objects by copying this prototype |  |  |
+|6 | Builder Pattern | 1. Defines an instance for creating an object but letting subclasses decide which class to instantiate <br>2). Refers to the newly created object through a common interface |  |  |
 
 # Structural Design Pattern
 |#SNo| #Design Pattern  | #Intent |
