@@ -3,6 +3,15 @@
 
 # To Read
  
+# Dimensions of System Design
+|SNo| #imension  | #Intent |
+|:--- | :--- | :--- | 
+|1 |Scalability | A solid system must be scalable. This means that it can handle additional load and will operate with efficiency while doing so |
+| 2|Reliability |Systems must also be reliable. They perform the way they are supposed to. Systems need to handle user mistakes while performing according to the specified requirements. Reliability also means that unauthorized access to the system can be thwarted  |
+| 3|Availability | This is the term used to describe whether or not a system can perform its intended function. Availability can be measured in time (its uptime, for example). The availability of a system is related to its reliability but, make no mistake, it is not the same thing. However, if a system is reliable, it is also available, not but necessarily vice versa |
+| 4|Efficiency |A well-designed system is an efficient system. Efficiency means the system performs its functions quickly and reliably. Efficiency is measured with metrics like latency, response time, and bandwidth  |
+| 5|Maintainability |A well-designed system must also be easy to maintain over time. This means that the system must also be designed with new engineers in mind. It must be simple enough for them to understand quickly and modify in unanticipated ways.  |
+
 
 # System Design Basics
 * vertical scaling: optimise precision and increase through put with the same resources 
