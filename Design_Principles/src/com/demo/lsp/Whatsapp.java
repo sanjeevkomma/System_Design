@@ -1,4 +1,4 @@
-package lsp;
+package com.demo.lsp;
 
 public class Whatsapp extends SocialMedia {
     public void chatWithFriend() {

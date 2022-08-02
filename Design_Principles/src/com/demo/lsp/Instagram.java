@@ -1,4 +1,4 @@
-package lsp;
+package com.demo.lsp;
 
 public class Instagram extends SocialMedia {
 

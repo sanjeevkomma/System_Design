@@ -1,6 +1,6 @@
-package dip;
+package com.demo.dip;
 
-import dip.impl.CreditCard;
+import com.demo.dip.impl.CreditCard;
 
 public class ShoppingMall {
 

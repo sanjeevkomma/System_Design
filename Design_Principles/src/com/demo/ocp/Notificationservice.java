@@ -1,4 +1,4 @@
-package ocp;
+package com.demo.ocp;
 
 public interface Notificationservice {
 

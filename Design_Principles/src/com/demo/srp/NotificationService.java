@@ -1,4 +1,4 @@
-package srp;
+package com.demo.srp;
 
 public class NotificationService {
     public void sendOTP(String medium) {

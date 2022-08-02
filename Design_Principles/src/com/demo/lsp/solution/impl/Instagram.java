@@ -1,7 +1,7 @@
-package lsp.solution.impl;
+package com.demo.lsp.solution.impl;
 
-import lsp.solution.PostMediaManager;
-import lsp.solution.SocialMedia;
+import com.demo.lsp.solution.PostMediaManager;
+import com.demo.lsp.solution.SocialMedia;
 
 public class Instagram implements SocialMedia,PostMediaManager{
 

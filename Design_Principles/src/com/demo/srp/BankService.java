@@ -1,4 +1,4 @@
-package srp;
+package com.demo.srp;
 
 import java.util.Random;
 

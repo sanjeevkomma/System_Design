@@ -1,4 +1,4 @@
-package isp;
+package com.demo.isp;
 
 public interface UPIPayments {
 

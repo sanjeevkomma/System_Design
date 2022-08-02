@@ -1,4 +1,4 @@
-package lsp.solution;
+package com.demo.lsp.solution;
 
 public interface SocialVideoCallManager {
     

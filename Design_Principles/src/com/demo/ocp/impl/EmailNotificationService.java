@@ -1,6 +1,6 @@
-package ocp.impl;
+package com.demo.ocp.impl;
 
-import ocp.Notificationservice;
+import com.demo.ocp.Notificationservice;
 
 public class EmailNotificationService implements Notificationservice {
     

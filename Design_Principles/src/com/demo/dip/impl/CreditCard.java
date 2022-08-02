@@ -1,6 +1,6 @@
-package dip.impl;
+package com.demo.dip.impl;
 
-import dip.BankCard;
+import com.demo.dip.BankCard;
 
 public class CreditCard implements BankCard{
 
